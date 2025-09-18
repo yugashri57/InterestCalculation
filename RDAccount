@@ -5,12 +5,12 @@ public class RDAccount extends Account {
 	public RDAccount(int tenture,float principal) {
 		
 	
-	this.tenture=tenture;
+	this.tenture=tenure;
 	this.principal=principal;
 	}
 	@Override
 	public float calculateAmountDeposited() {
-		return principal*tenture*12;
+		return principal*tenure*12;
 		
 	}
 	@Override
