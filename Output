@@ -1,0 +1,11 @@
+Enter Tenure(5 or 10):
+5
+Enter Principal Amount:
+1000
+Enter Age: 
+19
+Enter Gender (male/female):
+male
+The Interest is: 629.07153
+The Total Amount Deposited: 60000.0
+The Maturity Amount is: 60629.07
